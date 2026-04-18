@@ -1,1 +1,6 @@
 .LTFitting/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+output/
+data/
